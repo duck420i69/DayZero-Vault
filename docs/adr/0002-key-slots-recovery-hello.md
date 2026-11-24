@@ -1,6 +1,6 @@
 # 0002. Key slots with recovery code and per-PC Windows Hello
 
-Date: 2026-11-22 · Status: Accepted
+Date: 2026-11-22 · Status: Accepted · Amended 2026-11-23: Windows Hello deferred to v2 (ADR 0005); recovery code design in ADR 0007
 
 ## Decision
 
